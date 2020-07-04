@@ -1,2 +1,0 @@
-# macbook
-macOS
